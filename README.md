@@ -51,11 +51,11 @@ All projects include:
 2. Each folder includes:
    - ✅ `.cpp` source files
    - ✅ `README.md` for explanations
-   - ✅ Optional: flowchart images (in `.png` or `.jpg`)
+   - ✅ Optional: flowchart images (in `.png` or `.jpg`)will be added 
 3. Clone or download repo to run in your preferred C++ environment (I use **VS Code**)
 
 bash
-git clone https://github.com/yourusername/C-Plus-Assignments.git
+git clone https://github.com/Crispin26/C-Plus-Assignments.git
 
 4. Compile and run using g++:
 
