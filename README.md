@@ -1,11 +1,11 @@
 # 📘 C++ Assignments Repository
 
 Welcome to my collection of C++ assignments, projects, and learning exercises.  
-This repository includes all the work done during my C++ course — from basic syntax to more advanced concepts like arrays, functions, recursion, object-oriented programming, and file handling.
+This repository includes all the work done during my C++ course from basic syntax to more advanced concepts like arrays, functions, recursion, object-oriented programming, and file handling.
 
 Each lecture has its own folder with related assignments, properly named and organized for clarity and easy navigation.
 
-## 📂 Folder Structure
+# 📂 Folder Structure
 
 C-Plus-Assignments/
 ├── Lecture\_01\_Hello\_ASCII\_Hex/
@@ -28,18 +28,6 @@ C-Plus-Assignments/
 │
 └── README.md (you are here)
 
-
-## 🧠 Topics Covered (so far)
-
-| Lecture | Topic                                      | Concepts Applied                             |
-|--------:|--------------------------------------------|-----------------------------------------------|
-| 1       | Basic I/O, ASCII & Hex                      | `cout`, `cin`, variables, ASCII, hex          |
-| 2       | Magic Box Logic                             | 2D arrays, loops, input validation             |
-| 3       | (Upcoming)                                  | (To be added)                                  |
-| 4       | (Upcoming)                                  | (To be added)                                  |
-| ...     | *(More will be added as course progresses)* |                                               |
-
----
 
 ## 📁 Projects
 
@@ -66,25 +54,22 @@ All projects include:
    - ✅ Optional: flowchart images (in `.png` or `.jpg`)
 3. Clone or download repo to run in your preferred C++ environment (I use **VS Code**)
 
-```bash
+bash
 git clone https://github.com/yourusername/C-Plus-Assignments.git
-````
 
-4. Compile and run using `g++`:
+4. Compile and run using g++:
 
-```bash
+bash
 g++ Ass1_HelloWorld.cpp -o HelloWorld
 ./HelloWorld
-
 
 ## 📌 Notes
 
 * All code is written in **C++**, using standard input/output and basic libraries.
 * Programs are compiled and run using **g++** or VS Code’s built-in terminal.
 * Debugging is done with shortcuts like `F10`, `F11` for step-by-step tracing.
-* Flowcharts and requirement documents can be added as `.png`, `.jpg`, or `.pdf`.
+* Flowcharts and requirement documents will be added soon as `.png`, `.jpg`, or `.pdf`.
 
----
 
 ## 🚀 Learning Process (Assignment Workflow)
 
@@ -99,7 +84,7 @@ For each assignment or project, I follow this structured process:
 
 ## 📬 Contact / Feedback
 
-If you have any suggestions, questions, or want to collaborate — feel free to open an issue or reach out!
+If you have any suggestions, questions, or want to collaborate feel free to open an issue or reach out!
 
 Thanks for checking out my work! 😊
 
