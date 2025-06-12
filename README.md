@@ -5,30 +5,6 @@ This repository includes all the work done during my C++ course from basic synta
 
 Each lecture has its own folder with related assignments, properly named and organized for clarity and easy navigation.
 
-# 📂 Folder Structure
-
-C-Plus-Assignments/
-├── Lecture\_01\_Hello\_ASCII\_Hex/
-│   ├── Ass1\_HelloWorld.cpp
-│   ├── Ass2\_ASCII\_Code.cpp
-│   ├── Ass3\_Hex\_Representation.cpp
-│   └── README.md
-│
-├── Lecture\_02\_MagicBox/
-│   ├── Ass1\_MagicBox.cpp
-│   └── README.md
-│
-├── Lecture\_03\_.../
-│   └── (Upcoming Assignments)
-│
-├── Projects/
-│   ├── Project1\_StudentGradingSystem/
-│   ├── Project2\_LibraryManagementSystem/
-│   └── FinalProject\_InteractiveApp/
-│
-└── README.md (you are here)
-
-
 ## 📁 Projects
 
 | Project        | Description                                            | Week |
